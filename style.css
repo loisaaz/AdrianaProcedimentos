@@ -40,7 +40,7 @@
 
   .leftcolumn {   
     float: left;
-    width: 75%;
+    width: 105%;
   }
   
   
@@ -53,7 +53,7 @@
   
   
   .fakeimg {
-    background-color: #ff0909;
+    background-color: #fcb3d5;
     width: 100%;
     padding: 20px;
   }
@@ -83,7 +83,7 @@
   
   @media screen and (max-width: 800px) {
     .leftcolumn, .rightcolumn {   
-      width: 100%;
+      width: 200%;
       padding: 0;
     }
   }
